@@ -17,6 +17,6 @@
   }
   
   function firstListItem() {
-    return $('#piclist:first-child');
+    return $('#pic-list li:first-child');
   }
 //});
