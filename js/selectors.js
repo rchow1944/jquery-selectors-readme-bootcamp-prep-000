@@ -15,4 +15,8 @@
   function divSelector() {
     return $('div.pics');
   }
+  
+  function firstListItem() {
+    return $('#piclist li:first-child');
+  }
 //});
