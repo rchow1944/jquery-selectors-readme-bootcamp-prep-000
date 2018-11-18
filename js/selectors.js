@@ -13,6 +13,6 @@
   }
   
   function divSelector() {
-    return 
+    return $('div.pics');
   }
 //});
